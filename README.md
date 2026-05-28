@@ -46,5 +46,5 @@ Select `engram` from the list of memory providers and provide your `ENGRAM_API_K
 
 ## How It Works
 
-Once configured, Hermes will automatically commit conversation data to Engram after each interaction. This allows your agent to build persistent memory over time and retrieve relevant context across conversations.
+Once configured, Hermes will automatically commit conversation data to Engram after each session.
 
