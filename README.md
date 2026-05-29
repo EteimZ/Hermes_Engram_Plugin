@@ -4,8 +4,9 @@ The Engram Memory Plugin adds long term memory capabilities to Hermes using Weav
 
 By default, Hermes includes built in memory features designed for short, single session interactions. This plugin extends those capabilities by enabling persistent memory across longer conversations and multiple sessions, making it possible to build agents that can remember and retrieve information over time.
 
-Engram is currently in preview. You can learn more here: [https://weaviate.io/blog/engram-deep-dive](https://weaviate.io/blog/engram-deep-dive)
-If you want to try it out, you can request access here: [https://weaviate.io/product-previews#preview-engram](https://weaviate.io/product-previews#preview-engram)
+Engram is currently in preview. You can learn more here: [Engram Deep Dive](https://weaviate.io/blog/engram-deep-dive)
+
+If you want to try it out, you can request access here: [Preview Engram](https://weaviate.io/product-previews#preview-engram)
 
 
 ## Installation
@@ -87,15 +88,12 @@ Your goal is to clearly explain concepts and help users understand how Engram ca
 
 Once launched via the Hermes CLI, the agent behaves like a live conference assistant.
 
----
-
 ### Demo: Agent Interaction
 
 ![Hermes Conference Agent](assets/Hermes_CLI.png)
 
 In a sample session, the user interacts with Hermes as an attendee. After the session ends, it can be closed using `Ctrl + C`.
 
----
 
 ### Memory Persistence in Engram
 
